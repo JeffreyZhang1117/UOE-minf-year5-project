@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dd0fa39-cccd-4daa-a8b9-d3818b9c429b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PMPredictionFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PMPredictionFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrameWorkUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/FrameWorkUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreProcessing/StaticOnlyPreprocessHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/PreProcessing/StaticOnlyPreprocessHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreProcessing/StaticPersonalPreprocessHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/PreProcessing/StaticPersonalPreprocessHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreProcessing/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/PreProcessing/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreProcessing/formatdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/PreProcessing/formatdata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreProcessing/load_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/PreProcessing/load_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreProcessing/misc_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/PreProcessing/misc_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spatial/SpatialPredictions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spatial/SpatialPredictions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spatial/SpatialPredictionsSS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spatial/SpatialPredictionsSS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpatioTemporal/SpatioTemporalPredictions.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpatioTemporal/SpatioTemporalPredictions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpatioTemporal/SpatioTemporalPredictionsSS.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpatioTemporal/SpatioTemporalPredictionsSS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temporal/TemporalPredictions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Temporal/TemporalPredictions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temporal/TemporalPredictionsSS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Temporal/TemporalPredictionsSS.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AOzjkZHFAMU4HQ1PiegiXmbDFB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Desktop/Project/weatherscraping/weatherScrapper.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="FrameWorkUI" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PMPredictionFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FrameWorkUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dd0fa39-cccd-4daa-a8b9-d3818b9c429b" name="Changes" comment="" />
+      <created>1654895560340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654895560340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
